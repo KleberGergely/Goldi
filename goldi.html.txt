@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="hu">
+	<head>
+		<title>Golden Retriever</title>
+	</head>
+		<meta charset="utf-8">
+	<body>
+		<h1>Golden Retriever bemutatása</h1>
+		<p>A <b>Golden Retriever</b> egy kedves és barátságos kutyafajta, mely Skóciából származik
+		A fajta tudományos megnevezése: Golden Retriever</p>
+		<h2>Előnyös tulajdonságai</h2>
+		
+	</body>
+</html>
